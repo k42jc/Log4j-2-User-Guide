@@ -18,7 +18,7 @@ PS.因个人水平有限，也是抱着学习的态度第一次翻译文档，�
 2. [简介](1 Introduction/) 
 3. [整体结构](2 Architecture/) 
 4. [从1.x版本迁移](3 Log4j 1.x Migration/) 
-5. [API](API/) 
+5. [API](4 API/) 
 6. Configuration 
 7. Web Applications and JSPs
 8. Plugins
