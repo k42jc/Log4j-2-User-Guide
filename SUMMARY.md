@@ -1,9 +1,9 @@
 # Summary
 
-* [简介](1 Introduction/READEME.md)
+简介
 	* [概述](1 Introduction/1.1.1 Introduction.md)
 	* [Log4j 2介绍](1 Introduction/1.1.2 Log4j 2.md)
-* [架构](2 Architecture/READEME.md)
+架构
 	* [主要组件](2 Architecture/2.1.1 Main Components.md)
 	* [Logger的层级结构](2 Architecture/2.1.1.1 Logger Hierarchy.md)
 	* [LoggerContext类/接口](2 Architecture/2.1.1.2 LoggerContext.md)
@@ -14,7 +14,7 @@
 	* [Appender类/接口](2 Architecture/2.1.1.7 Appender.md)
 	* [Layout类/接口](2 Architecture/2.1.1.8 Layout.md)
 	* [StrSubstitutor与StrLookup类/接口](2 Architecture/2.1.1.9 StrSubstitutor and StrLookup.md)
-* [从1.x版本迁移](3 Log4j 1.x Migration/READEME.md)
+从1.x版本迁移
 	* [使用Log4j 1.x bridge](3 Log4j 1.x Migration/3.1.1 using the Log4j 1.x bridge.md)
 	* [转换到Log4j 2的API](3 Log4j 1.x Migration/3.1.2 Converting to the Log4j 2 API.md)
 	* [配置Log4j 2](3 Log4j 1.x Migration/3.1.3 Configuring Log4j 2.md)
@@ -23,7 +23,7 @@
 	* [示例3-网络传输](3 Log4j 1.x Migration/3.1.3.3 Sample 3 - SocketAppender.md)
 	* [示例4-异步日志](3 Log4j 1.x Migration/3.1.3.4 Sample 4 - AsyncAppender.md)
 	* [示例5-异步控制台与文件日志](3 Log4j 1.x Migration/3.1.3.5 Sample 5 - AsyncAppender with Console and File.md)
-* [API](4 API/READEME.md)
+API
 	* [概述](4 API/4.1.1 Overview.md)
 	* [Hello World!](4 API/4.1.1.1 Hello World!.md)
 	* [参数化](4 API/4.1.1.2 Substituting Parameters.md)
