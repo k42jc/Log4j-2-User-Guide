@@ -31,3 +31,8 @@
 	* [普通Logger搭配格式化](4 API/4.1.1.4 Mixing Loggers with Formatter Loggers.md)
 	* [使用Java 8的lambda表达式实现延迟日志](4 API/4.1.1.5 Java 8 lambda support for lazy logging.md)
 	* [Logger名称介绍](4 API/4.1.1.6 Logger Names.md)
+* [Configuration](5 Configuration/5.1 Configuration.md)
+	* [自动配置](5 Configuration/5.1.1 Automatic Configuration.md)
+	* [添加性](5 Configuration/5.1.2 Additivity.md)
+	* [自动重配置](5 Configuration/5.1.3 Automatic Reconfiguration.md)
+	* [Chainsaw自动处理log文件(广播appender配置)](5 Configuration/5.1.4 Chainsaw can automatically process your log files.md)
